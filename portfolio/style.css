@@ -1,0 +1,36 @@
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  padding-top: 80px;
+}
+
+#home {
+  background: #f8f9fa;
+}
+
+.name{
+  font-size: 5rem;
+}
+
+.view_work {
+  margin-top: 25%;
+}
+
+.btn {
+  background-color: transparent;
+  color: black;
+  border: 2px solid black;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+}
+
+span {
+  font-weight: bold;
+  color: #000;
+}
